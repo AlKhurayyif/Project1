@@ -1,7 +1,0 @@
-
-# import Libraries
-import pandas as pandas
-
-# Create DataFrame
-df = pd.read_csv('Data.csv')
-
